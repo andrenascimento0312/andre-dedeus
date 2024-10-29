@@ -22,7 +22,7 @@ use App\Models\Exchange;
 /**
  * Class ExchangeController
  *
- * Handles exchange operations and interactions with the Exchange model.
+ * Handles exchange operations and interactions with the Exchange model
  *
  * @category Controller
  * @package  App\Controllers
